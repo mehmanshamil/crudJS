@@ -1,0 +1,27 @@
+[
+    {
+        "name":"Nermin",
+        "Surname":"Alizade",
+        "age":23
+    },
+    {
+        "name":"Asif",
+        "Surname":"Eliyev",
+        "age":20
+    },
+    {
+        "name":"Vasif",
+        "Surname":"Eliyev",
+        "age":20
+    },
+    {
+        "name":"Agasif",
+        "Surname":"Eliyev",
+        "age":20
+    },
+    {
+        "name":"Ayan",
+        "Surname":"Babayeva",
+        "age":21
+    }
+]
